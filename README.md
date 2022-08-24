@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matei Berari
 - 👀 I’m interested in Machine Learning/AI/Robotics 
-- 🌱 I’m currently learning python with tensorflow
+- 🌱 I’m currently learning python and tensorflow
 - ✉️ You can reach me via instagram @mateiberari
 
 <!---
